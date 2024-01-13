@@ -9,7 +9,7 @@ const btn__scissor = document.querySelector('#scissor');
 const div__result = document.querySelector('#result');
 const div__score = document.querySelector('#score');
 
-//Changement mineur
+//Changement mineur essai git
 
 btn__rock.addEventListener('click', () => {
     //Comparing player and computer choice
